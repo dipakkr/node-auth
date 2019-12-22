@@ -1,7 +1,7 @@
 
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/po8bf8rxg7lzot1u16pj.png)
 
-### Original Blog Post URL : [BLOG LINK](https://dev.to/dipakkr/implementing-authentication-in-nodejs-with-express-and-jwt-codelab-1-j5i)
+### Blog Post URL : [BLOG LINK](https://dev.to/dipakkr/implementing-authentication-in-nodejs-with-express-and-jwt-codelab-1-j5i)
 
 
 I am starting a CodeLab series in which I will building something cool and sharing with the community.
