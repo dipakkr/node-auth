@@ -113,7 +113,7 @@ If you type `node index.js` in the terminal, the server will start at PORT 4000.
 
 ----
 
-###5. Setup MongoDB Database
+### 5. Setup MongoDB Database
 
 We will be using MongoDB Database to store our users. You can use either a cloud MongoDB server or a local MongoDB server. 
 
